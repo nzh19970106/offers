@@ -114,3 +114,4 @@ typedef struct zskiplist{
 - 调表是一种实现起来很简单，单层多指针的链表，查找效率很高
 - 
 ![](images/redis的五种数据结构.jpg)
+2. 
